@@ -3,3 +3,7 @@
     color: red;
     background-color: aliceblue;
 }
+
+body{
+    background-image: url("bg.webp");
+}
